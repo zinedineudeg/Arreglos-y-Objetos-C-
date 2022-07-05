@@ -1,0 +1,53 @@
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.exe
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.deps.json
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.json
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.dev.json
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csprojAssemblyReference.cache
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfoInputs.cache
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfo.cs
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csproj.CoreCompileInputs.cache
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.genruntimeconfig.cache
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.exe
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.deps.json
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.json
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.dev.json
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csprojAssemblyReference.cache
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfoInputs.cache
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfo.cs
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csproj.CoreCompileInputs.cache
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.genruntimeconfig.cache
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.exe
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.deps.json
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.json
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.dev.json
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfoInputs.cache
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfo.cs
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csproj.CoreCompileInputs.cache
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.dll
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.pdb
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.genruntimeconfig.cache
+C:\Users\zined\Downloads\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csprojAssemblyReference.cache
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.exe
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.deps.json
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.json
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.runtimeconfig.dev.json
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.dll
+E:\SD\arreglos y objetos\arreglos y objetos\bin\Debug\netcoreapp3.1\arreglos y objetos.pdb
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csproj.AssemblyReference.cache
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfoInputs.cache
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.AssemblyInfo.cs
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.csproj.CoreCompileInputs.cache
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.dll
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.pdb
+E:\SD\arreglos y objetos\arreglos y objetos\obj\Debug\netcoreapp3.1\arreglos y objetos.genruntimeconfig.cache
